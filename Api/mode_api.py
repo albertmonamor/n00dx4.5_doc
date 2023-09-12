@@ -25,6 +25,9 @@ from Api.scanner_api import run_shell, scan_by_payload
 
 
 def mode_shell(setting_sock, port, parent_setting):
+	"""
+ 	גדגדג
+ 	"""
 	pass
 
 def mode_screen_tcp(setting_sock, port, parent_setting):
