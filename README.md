@@ -7,3 +7,7 @@ Documentation for source code
 
 
 בעמוד הזה קיים הקובץ trojan_project.pdf יש שם תרשים, של אורך חיי הסוס וההתנהגות שלו
+
+#
+#
+תמיכה רק במערכת windows 
